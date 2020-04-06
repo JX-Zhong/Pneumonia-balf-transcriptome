@@ -1,0 +1,175 @@
+ID	Gender	Age	Disease	Virus (sequencing)a	Clinical/laboratory results	Days after symptom onset	ICU	Outcome 
+C1	female	49	COVID-19	nCoV	Negative	8	Y	Deceased
+C2	female	52	COVID-19	nCoV	Negative	8	Y	Deceased
+C3	male	40	COVID-19	nCoV	Negative	15	Y	Deceased
+C4	male	61	COVID-19	nCoV	Negative	12	Y	Recovered
+C5	male	40	COVID-19	nCoV	Negative	8	Y	Deceased
+C6	male	56	COVID-19	nCoV	Negative	10	Y	Deceased
+C7	female	53	COVID-19	nCoV	Negative	7	N	Recovered
+C8	male	41	COVID-19	nCoV	Negative	4	NA	NA
+H1	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H10	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H11	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H12	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H13	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H14	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H15	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H16	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H17	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H18	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H19	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H2	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H20	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H3	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H4	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H5	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H6	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H7	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H8	NA	NA	Healthy	NA	Negative	NA	NA	NA
+H9	NA	NA	Healthy	NA	Negative	NA	NA	NA
+O1	male	43	non-viral CAP	NA	Negative	NA	NA	NA
+O10	male	85	non-viral CAP	NA	Negative	NA	NA	NA
+O100	male	61	non-viral CAP	NA	Negative	1	NA	NA
+O101	male	61	non-viral CAP	NA	Negative	3	NA	NA
+O102	male	61	non-viral CAP	NA	Negative	5	NA	NA
+O103	male	69	non-viral CAP	NA	S.aureus,P.aeruginosa,A.baumannii,S.maltophilia,E.coli	3	NA	NA
+O104	male	69	non-viral CAP	NA	S.aureus,P.aeruginosa,A.baumannii,S.maltophilia,E.coli	5	NA	NA
+O105	male	75	non-viral CAP	NA	Negative	1	NA	NA
+O106	male	75	non-viral CAP	NA	Negative	3	NA	NA
+O107	male	69	non-viral CAP	NA	Negative	2	NA	NA
+O108	male	NA	non-viral CAP	NA	Negative	8	NA	NA
+O109	male	80	non-viral CAP	NA	Negative	8	NA	NA
+O11	male	70	non-viral CAP	NA	Negative	NA	NA	NA
+O110	male	80	non-viral CAP	NA	Negative	10	NA	NA
+O111	female	79	non-viral CAP	NA	Negative	7	NA	NA
+O112	female	79	non-viral CAP	NA	Negative	9	NA	NA
+O113	male	48	non-viral CAP	NA	Negative	8	NA	NA
+O114	male	48	non-viral CAP	NA	Negative	10	NA	NA
+O115	male	60	non-viral CAP	NA	Negative	6	NA	NA
+O116	male	60	non-viral CAP	NA	Negative	8	NA	NA
+O117	male	85	non-viral CAP	NA	Negative	8	NA	NA
+O118	male	72	non-viral CAP	NA	Negative	11	NA	NA
+O119	male	22	non-viral CAP	NA	Negative	16	NA	NA
+O12	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O120	male	22	non-viral CAP	NA	Negative	18	NA	NA
+O121	male	74	non-viral CAP	NA	Negative	8	NA	NA
+O122	male	74	non-viral CAP	NA	Negative	10	NA	NA
+O13	female	31	non-viral CAP	NA	Negative	NA	NA	NA
+O14	female	31	non-viral CAP	NA	Negative	NA	NA	NA
+O15	female	82	non-viral CAP	NA	Negative	NA	NA	NA
+O16	female	32	non-viral CAP	NA	Negative	NA	NA	NA
+O17	female	32	non-viral CAP	NA	Negative	NA	NA	NA
+O18	NA	NA	non-viral CAP	NA	Negative	3	NA	NA
+O19	female	43	non-viral CAP	NA	Negative	6	NA	NA
+O2	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O20	female	32	non-viral CAP	NA	Negative	9	NA	NA
+O21	female	30	non-viral CAP	NA	Negative	8	NA	NA
+O22	female	91	non-viral CAP	NA	Negative	7	NA	NA
+O23	female	34	non-viral CAP	NA	Adenovirus	NA	NA	NA
+O24	female	72	non-viral CAP	NA	P.Aeruginosa,A.baumannii,K.pneumoniae,S.aureus	NA	NA	NA
+O25	male	45	non-viral CAP	NA	Negative	NA	NA	NA
+O26	male	75	non-viral CAP	NA	M.pneumoniae	NA	NA	NA
+O27	female	NA	non-viral CAP	NA	Negative	5	NA	NA
+O28	female	NA	non-viral CAP	NA	Negative	5	NA	NA
+O29	male	58	non-viral CAP	NA	Negative	NA	NA	NA
+O3	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O30	male	26	non-viral CAP	NA	Negative	4	NA	NA
+O31	female	64	non-viral CAP	NA	S.pneumoniae	7	NA	NA
+O32	male	79	non-viral CAP	NA	Negative	8	NA	NA
+O33	female	60	non-viral CAP	NA	Negative	6	NA	NA
+O34	female	65	non-viral CAP	NA	Negative	4	NA	NA
+O35	female	78	non-viral CAP	NA	Negative	9	NA	NA
+O36	male	34	non-viral CAP	NA	Negative	8	NA	NA
+O37	female	78	non-viral CAP	NA	Negative	5	NA	NA
+O38	female	63	non-viral CAP	NA	Negative	6	NA	NA
+O39	female	22	non-viral CAP	NA	Adenovirus	9	NA	NA
+O4	male	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O41	male	62	non-viral CAP	NA	Rhinovirus	NA	NA	NA
+O42	female	52	non-viral CAP	NA	Influenza A virus	4	NA	NA
+O43	male	NA	non-viral CAP	NA	Negative	4	NA	NA
+O44	male	NA	non-viral CAP	NA	Negative	10	NA	NA
+O45	female	24	non-viral CAP	NA	Negative	NA	NA	NA
+O46	male	NA	non-viral CAP	NA	Negative	9	NA	NA
+O47	female	NA	non-viral CAP	NA	Negative	9	NA	NA
+O48	female	NA	non-viral CAP	NA	Negative	6	NA	NA
+O49	female	NA	non-viral CAP	NA	Negative	6	NA	NA
+O5	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O50	male	34	non-viral CAP	NA	Negative	NA	NA	NA
+O51	male	NA	non-viral CAP	NA	Negative	7	NA	NA
+O52	female	NA	non-viral CAP	NA	Negative	12	NA	NA
+O53	male	NA	non-viral CAP	NA	S.pneumoniae	11	NA	NA
+O54	male	NA	non-viral CAP	NA	S.pneumoniae	19	NA	NA
+O55	male	NA	non-viral CAP	NA	Negative	15	NA	NA
+O56	female	27	non-viral CAP	NA	Negative	9	NA	NA
+O57	male	57	non-viral CAP	NA	Negative	8	NA	NA
+O58	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O59	female	41	non-viral CAP	NA	Negative	NA	NA	NA
+O6	male	66	non-viral CAP	NA	Negative	NA	NA	NA
+O60	female	78	non-viral CAP	NA	Negative	NA	NA	NA
+O61	female	26	non-viral CAP	NA	Negative	NA	NA	NA
+O62	female	24	non-viral CAP	NA	Negative	NA	NA	NA
+O63	female	33	non-viral CAP	NA	L.pneumophila	NA	NA	NA
+O64	male	78	non-viral CAP	NA	Negative	NA	NA	NA
+O65	female	55	non-viral CAP	NA	Negative	NA	NA	NA
+O66	male	55	non-viral CAP	NA	Negative	6	NA	NA
+O67	male	59	non-viral CAP	NA	Negative	NA	NA	NA
+O68	male	47	non-viral CAP	NA	Negative	NA	NA	NA
+O69	male	61	non-viral CAP	NA	Negative	NA	NA	NA
+O7	male	52	non-viral CAP	NA	Negative	NA	NA	NA
+O70	male	82	non-viral CAP	NA	Negative	9	NA	NA
+O71	female	63	non-viral CAP	NA	Negative	NA	NA	NA
+O72	female	74	non-viral CAP	NA	Negative	NA	NA	NA
+O73	male	36	non-viral CAP	NA	Negative	7	NA	NA
+O74	female	30	non-viral CAP	NA	Negative	NA	NA	NA
+O75	male	87	non-viral CAP	NA	Negative	NA	NA	NA
+O76	female	37	non-viral CAP	NA	Negative	NA	NA	NA
+O77	male	59	non-viral CAP	NA	M.pneumoniae	NA	NA	NA
+O78	female	48	non-viral CAP	NA	Negative	NA	NA	NA
+O79	female	52	non-viral CAP	NA	Negative	4	NA	NA
+O8	male	78	non-viral CAP	NA	Negative	NA	NA	NA
+O80	female	38	non-viral CAP	NA	M.pneumoniae	9	NA	NA
+O81	female	56	non-viral CAP	NA	Negative	3	NA	NA
+O82	female	70	non-viral CAP	NA	Negative	8	NA	NA
+O83	female	36	non-viral CAP	NA	Negative	NA	NA	NA
+O84	female	48	non-viral CAP	NA	Negative	6	NA	NA
+O85	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O86	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O87	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O88	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O89	NA	NA	non-viral CAP	NA	Negative	NA	NA	NA
+O9	male	85	non-viral CAP	NA	Negative	NA	NA	NA
+O90	NA	66	non-viral CAP	NA	Negative	9	NA	NA
+O91	male	50	non-viral CAP	NA	Negative	1	NA	NA
+O92	male	50	non-viral CAP	NA	Negative	1	NA	NA
+O93	male	78	non-viral CAP	NA	Negative	1	NA	NA
+O94	male	62	non-viral CAP	NA	Negative	2	NA	NA
+O95	male	73	non-viral CAP	NA	Negative	2	NA	NA
+O96	male	43	non-viral CAP	NA	Negative	1	NA	NA
+O97	male	69	non-viral CAP	NA	Negative	15	NA	NA
+O98	male	83	non-viral CAP	NA	Negative	11	NA	NA
+O99	male	81	non-viral CAP	NA	Negative	2	NA	NA
+V1	female	76	virus-like CAP	Human mastadenovirus B	Adenovirus,P.Aeruginosa,A.baumannii	6	NA	NA
+V10	male	23	virus-like CAP	Rhinovirus A	Negative	10	NA	NA
+V11	female	45	virus-like CAP	Rhinovirus B	Adenovirus	2	NA	NA
+V12	male	46	virus-like CAP	Rhinovirus A	Negative	NA	NA	NA
+V13	female	22	virus-like CAP	Rhinovirus A	Negative	NA	NA	NA
+V14	female	24	virus-like CAP	Measles morbillivirus	Negative	NA	NA	NA
+V15	female	58	virus-like CAP	Rhinovirus C	Negative	10	NA	NA
+V16	NA	NA	virus-like CAP	Influenza A virus	Negative	NA	NA	NA
+V17	NA	NA	virus-like CAP	Influenza A virus	Negative	NA	NA	NA
+V18	NA	NA	virus-like CAP	Influenza A virus	Negative	NA	NA	NA
+V19	male	68	virus-like CAP	Influenza B virus	Negative	8	NA	NA
+V2	NA	NA	virus-like CAP	Rhinovirus A	Negative	NA	NA	NA
+V20	male	NA	virus-like CAP	Rhinovirus A	Negative	10	NA	NA
+V21	male	35	virus-like CAP	Enterovirus D	Negative	12	NA	NA
+V22	male	35	virus-like CAP	Enterovirus D	Negative	14	NA	NA
+V23	male	85	virus-like CAP	Enterovirus D	Negative	8	NA	NA
+V24	male	72	virus-like CAP	Human coronavirus HKU1	Negative	13	NA	NA
+V25	NA	NA	virus-like CAP	Influenza A virus	Negative	NA	NA	NA
+V3	male	74	virus-like CAP	Rhinovirus B	Rhinovirus	NA	NA	NA
+V4	female	51	virus-like CAP	Rhinovirus B	Rhinovirus	NA	NA	NA
+V5	male	59	virus-like CAP	Rhinovirus A	Rhinovirus,Influenza A virus	NA	NA	NA
+V6	female	NA	virus-like CAP	Human orthopneumovirus	Negative	7	NA	NA
+V7	male	NA	virus-like CAP	Influenza B virus	Negative	11	NA	NA
+V8	female	39	virus-like CAP	Human orthopneumovirus	M.pneumoniae	10	NA	NA
+V9	male	57	virus-like CAP	Human orthopneumovirus	Negative	6	NA	NA
